@@ -60,7 +60,7 @@
 - maven
 - websquare
 - apache / tomcat
-- jeus / webtob
+- jeus / webtob ...
 
 ## 프로젝트 이력
 
@@ -72,6 +72,12 @@
 - 기간: 2020.04 ~ 2020.12(1월 오픈예정)
 - 기술스택: websquare, java, javascript, springMVC, mybatis ...
 
+## 공동체활동 및 기타활동
+- 스마일FC(축구동호회)(2019.04 ~ 2019.09)
+- 기브앤레이스 마라톤 10K(2019.05)
+- ROTC(2015 ~ 2017)
+- IONIC LOGEST RUN 마라톤 10K(2016.11)
+- 네비게이토선교회(2013 ~ 2015)
 
 <br/><br/><br/>
 새로운 도전을 즐깁니다. wjdrhkd456@gmail.com 으로 연락주세요!
