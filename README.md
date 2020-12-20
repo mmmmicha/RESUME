@@ -18,11 +18,11 @@
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=300px height=300px/>
 
 ## 경력
-- [케이엘넷](http://klnet.co.kr)(2020~ ; SI컨설팅팀 ; 웹개발자)
+- [케이엘넷](http://klnet.co.kr)(2020~ / SI컨설팅팀 / 웹개발자)
 
 ## 수료교육
-- [도커 기반의 경량 클라우드 서비스 설계, 구축](2020)
-- [스프링(전자정부 표준) 활용 시스템 통합 개발 실무](2020)
+- 도커 기반의 경량 클라우드 서비스 설계, 구축(2020)
+- 스프링(전자정부 표준) 활용 시스템 통합 개발 실무(2020)
 - [JAVA를 이용한 웹개발자 양성과정](2019.07 ~ 2020.01)
 
 ## 학력
