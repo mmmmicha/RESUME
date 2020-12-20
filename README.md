@@ -1,8 +1,7 @@
 # 이력서
 
 ## 소개
-<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=200px height=200px/> 
-<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile2.jpg' width=200px height=200px/>
+<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainprofile2.jpg' width=300px height=300px/>
 ```
 승부욕이 강하지만 부족함을 인정하고 배우길 즐기는 개발자입니다.
 ```
@@ -15,7 +14,7 @@
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
 
-![기타사진1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg) ![기타사진2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg) ![기타사진3](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg)
+<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=300px height=300px/>
 
 ## 경력
 - [케이엘넷](http://klnet.co.kr)(2020~ ; SI컨설팅팀 ; 웹개발자)
