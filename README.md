@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![프로필이미지1](https://github.com/wjdrhkd456/RESUME/IMAGES/mainProfile.jpg) ![프로필이미지2](https://github.com/wjdrhkd456/RESUME/IMAGES/mainProfile2.jpg)
+![프로필이미지1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg) ![프로필이미지2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile2.jpg)
 ```
 승부욕이 강하지만 부족함을 인정하고 배우길 즐기는 개발자입니다.
 ```
@@ -14,7 +14,7 @@
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
 
-![기타사진1](https://github.com/wjdrhkd456/RESUME/IMAGES/soccer.jpg) ![기타사진2](https://github.com/wjdrhkd456/RESUME/IMAGES/give_and_race.jpg) ![기타사진3](https://github.com/wjdrhkd456/RESUME/IMAGES/marine.jpg)
+![기타사진1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg) ![기타사진2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg) ![기타사진3](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg)
 
 ## 경력
 - [케이엘넷](http://klnet.co.kr)(2020~ ; SI컨설팅팀 ; 웹개발자)
