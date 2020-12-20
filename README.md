@@ -71,7 +71,5 @@
 - 기간: 2020.04 ~ 2020.12(1월 오픈예정)
 - 기술스택: websquare, java, javascript, springMVC, mybatis ...
 
-
-여기까지 읽어주셔서 감사합니다. <br/>
-부족한 부분이나 더 궁금하신 내용이 있다면 [이슈](https://github.com/JSpiner/RESUME/issues)로 남겨주시겨나, jspiner@naver.com으로 연락주세요.<br/>
+새로운 도전을 즐깁니다. wjdrhkd456@gmail.com 으로 연락주세요!
 감사합니다.
