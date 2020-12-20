@@ -21,8 +21,9 @@
 - [케이엘넷](http://klnet.co.kr)(2020.04 ~ / SI컨설팅팀 / 웹개발자)
 
 ## 수료교육
-- 도커 기반의 경량 클라우드 서비스 설계, 구축(2020)
-- [스프링(전자정부 표준) 활용 시스템 통합 개발 실무](https://github.com/wjdrhkd456/SpringDigitalGovermentFramework)(2020)
+- 도커 기반의 경량 클라우드 서비스 설계, 구축(2020.12)
+- [스프링(전자정부 표준) 활용 시스템 통합 개발 실무](https://github.com/wjdrhkd456/SpringDigitalGovermentFramework)(2020.05)
+- webSquare client Tool 관련 교육(2020.04)
 - [JAVA를 이용한 웹개발자 양성과정](https://github.com/wjdrhkd456/Portfolio/blob/master/README.md)(2019.07 ~ 2020.01)
 
 ## 학력
