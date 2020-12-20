@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-![프로필이미지](https://github.com/JSpiner/RESUME/raw/master/images/profile.jpeg)
+![프로필이미지1](https://github.com/wjdrhkd456/RESUME/IMAGES/mainProfile.jpg) ![프로필이미지2](https://github.com/wjdrhkd456/RESUME/IMAGES/mainProfile2.jpg)
 ```
 승부욕이 강하지만 부족함을 인정하고 배우길 즐기는 개발자입니다.
 ```
@@ -14,10 +14,15 @@
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
 
-![깃허브](https://github.com/JSpiner/RESUME/raw/master/images/github.png)
+![기타사진1](https://github.com/wjdrhkd456/RESUME/IMAGES/soccer.jpg) ![기타사진2](https://github.com/wjdrhkd456/RESUME/IMAGES/give_and_race.jpg) ![기타사진3](https://github.com/wjdrhkd456/RESUME/IMAGES/marine.jpg)
 
 ## 경력
-- [케이엘넷](http://klnet.co.kr)(2020~)
+- [케이엘넷](http://klnet.co.kr)(2020~ ; SI컨설팅팀 ; 웹개발자)
+
+## 수료교육
+- [도커 기반의 경량 클라우드 서비스 설계, 구축](2020)
+- [스프링(전자정부 표준) 활용 시스템 통합 개발 실무](2020)
+- [JAVA를 이용한 웹개발자 양성과정](2019.07 ~ 2020.01)
 
 ## 학력
 - 단국대학교 응용컴퓨터공학과 졸업(2013 ~ 2017)
@@ -57,45 +62,13 @@
 
 ## 프로젝트 이력
 
-<img src='./images/toonies.png' width="80" />
+<img src='./IMAGES/apply.png'/> <img src='./IMAGES/permit.png'/>
 
-### 투니스
-- 소개: 합법적으로, 공짜로, 누구나 웹툰을 볼 수 있도록 도와주는 서비스
-- 사이드 프로젝트로 혼자 서버/백엔드 개발
-- 기간 : 2019.01 ~ 2019.12
-- 매출 : 8,709,411원
-
-<img src='./images/ridibooks.png' width="80" />
-
-### 리디북스
-- 소개: 1등 전자책 서비스
-- 기간: 2018.09 ~ 2020.09
-- 프로젝트 : 리디페이퍼(3세대) 앱 개발, 웹툰/웹소설용 기능 추가, 유지보수
-
-### 헤이딜러
-- 소개: 경매로 내차팔기 서비스
-- 기간: 2017.07 ~ 2018.09
-- 역할: 유지보수, 신규기능 개발(현재 인수인계후 메인개발)
-- 관련기술: MVP, rxJava, databinding, lint, Travis, Fabric, SharedElement Transition, Canvas
-
-<img src="https://avatars0.githubusercontent.com/u/24453230?s=200&v=4" width="80" height="80"/>
-
-### CALY
-- 소개: 일정기반 추천서비스 CALY
-- 기간: 2016.12 ~ 2017.07
-- 역할: 안드로이드 어플리케이션 99%담당, Caldav 프로토콜, api서버 10% 담당, 기술블로그 작성(30%)
-- 관련기술: Android, CI/CD(travis), Caldav, 3-legged OAuth, Travis, JIRA(애자일 스프린트), Collaborative Filtering(추천 알고리즘)
-- 자세한 설명은 [이 github 그룹](https://github.com/CalyFactory)에 있습니다.
-- 기술블로그는 [이 링크](https://calyfactory.github.io/)에서 보실수 있으며, [저장소는 여기](https://github.com/CalyFactory/CalyFactory.github.io)입니다.(기여도 30%)
-
-<img src="https://github.com/JSpiner/Soma_SlackBot_taja/raw/develop/imgs/logo-circle-512.png" width="80" height="80"/>
-
-### Surfinger
-- 소개: 슬랙 봇 기반 타자게임
-- 기간: 2016.09 ~ 2016.12
-- 역할: 주요 게임로직, 멀티프로세싱 처리 (전체 447커밋중 193커밋을 기여함)
-- 관련기술: python, Message-Q, worker, Multiprocessing, RealTimeMessaging(Socket), newrelic
-- 자세한 설명은 [이 github 저장소](https://github.com/JSpiner/Soma_SlackBot_taja)에 있습니다.
+### 항만 출입 관리 시스템 고도화
+- 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
+- 역할: asis 기능 분석 후 tobe환경으로 기능 전환, 신규기능 개발, 공통서비스 개발, db관리 보조 
+- 기간: 2020.04 ~ 2020.12(1월 오픈예정)
+- 기술스택: websquare, java, javascript, springMVC, mybatis ...
 
 
 여기까지 읽어주셔서 감사합니다. <br/>
