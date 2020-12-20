@@ -18,7 +18,7 @@
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=300px height=300px/>
 
 ## 경력
-- [케이엘넷](http://klnet.co.kr)(2020~ / SI컨설팅팀 / 웹개발자)
+- [케이엘넷](http://klnet.co.kr)(2020.04 ~ / SI컨설팅팀 / 웹개발자)
 
 ## 수료교육
 - 도커 기반의 경량 클라우드 서비스 설계, 구축(2020)
