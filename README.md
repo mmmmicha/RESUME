@@ -1,7 +1,8 @@
 # 이력서
 
 ## 소개
-![프로필이미지1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg) ![프로필이미지2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile2.jpg)
+<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' style='width=120px; height=80px;'/> <img src='./IMAGES/apply.png'/>
+![프로필이미지1]() ![프로필이미지2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile2.jpg)
 ```
 승부욕이 강하지만 부족함을 인정하고 배우길 즐기는 개발자입니다.
 ```
