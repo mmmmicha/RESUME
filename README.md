@@ -1,7 +1,7 @@
 # 이력서
 
 ## 소개
-<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainprofile2.jpg' width=300px height=300px/>
+<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/>
 ```
 승부욕이 강하지만 부족함을 인정하고 배우길 즐기는 개발자입니다.
 ```
@@ -62,7 +62,7 @@
 
 ## 프로젝트 이력
 
-<img src='./IMAGES/apply.png'/> <img src='./IMAGES/permit.png'/>
+<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.png'/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.png'/>
 
 ### 항만 출입 관리 시스템 고도화
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
