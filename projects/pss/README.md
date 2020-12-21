@@ -11,7 +11,14 @@
   - DB 표준화
   
 - **기술스택**
-
+- 클라이언트툴: webSquare5(javascript/xml 기반)
+- language: Java
+- framework: spring(전자정부), mybatis
+- 형상관리: svn
+- ci: jenkins
+- IDE: 이클립스
+- server: apache/tomcat
+- DB: oracle, DA#(모델링툴)
 
 ## 항만출입관리시스템
 
