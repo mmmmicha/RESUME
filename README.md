@@ -64,7 +64,7 @@
 
 ## 프로젝트 이력
 
-<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG' width='278px' height='80px'/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG' width='278px' height='80px'/>
+<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG' href='www.naver.com' width='278px' height='80px'/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG' width='278px' height='80px'/>
 
 ### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
