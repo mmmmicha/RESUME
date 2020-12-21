@@ -12,7 +12,7 @@
 
 ## 항만출입허가시스템
 
-[참고자료1]()
+<image src='https://github.com/wjdrhkd456/RESUME/blob/main/projects/pss/images/permit_main.PNG' width='700px' height='400px'/>
 
 ### 1. 담당 서비스
 - **시스템관리**
