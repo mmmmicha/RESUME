@@ -64,7 +64,7 @@
 
 ## 프로젝트 이력
 
-[![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)
+[![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](alert("준비중입니다.");)
 
 ### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
