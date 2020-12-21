@@ -66,7 +66,7 @@
 
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG' width='278px' height='80px'/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG' width='278px' height='80px'/>
 
-### 항만 출입 관리 시스템 고도화
+### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
 - 역할: asis 기능 분석 후 tobe환경으로 기능 전환, 신규기능 개발, 공통서비스 개발, db관리 보조 
 - 기간: 2020.04 ~ 2020.12(1월 오픈예정)
