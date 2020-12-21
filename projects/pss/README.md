@@ -23,6 +23,7 @@
 ## 항만출입관리시스템
 
 <image src='https://github.com/wjdrhkd456/RESUME/blob/main/projects/pss/images/apply_main.PNG' width='700px' height='400px'/>
+※ 게시판관련 내용은 마스킹처리했습니다.
 
 ### 1. 담당 서비스
 - 팝업공지기능
@@ -32,6 +33,7 @@
 ## 항만출입허가시스템
 
 <image src='https://github.com/wjdrhkd456/RESUME/blob/main/projects/pss/images/permit_main.PNG' width='700px' height='400px'/>
+※ 게시판관련 내용은 마스킹처리했습니다.
 
 ### 1. 담당 서비스
 - **시스템관리**
