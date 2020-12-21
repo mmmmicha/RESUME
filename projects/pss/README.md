@@ -4,11 +4,20 @@
 - **기간** : 2020.04 ~ 2020.12
 - **직무** : 웹 클라이언트, server 개발
 - **프로젝트설명**
-  - ```jsp/servlet``` 기반의 프로그램을 [webSquare5](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/websquare5.xml&product=ws&seq=11)/springMVC 기반의 프로그램으로 전환
+  - ```jsp/servlet``` 기반의 프로그램을 ```webSquare5/springMVC```([webSquare5](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/websquare5.xml&product=ws&seq=11)) 기반의 프로그램으로 전환
   - 기존프로그램에서의 장애 및 문제점 분석 후 개선
   - 신규 기능 추가
   - 분리되어있던 프로그램 통합
   - DB 표준화
+
+## 항만출입관리시스템
+
+<image src='https://github.com/wjdrhkd456/RESUME/blob/main/projects/pss/images/apply_main.PNG' width='700px' height='400px'/>
+
+### 1. 담당 서비스
+- 팝업공지기능
+- 항만별 보안등급
+- 항만출입관리시스템 설치현황
 
 ## 항만출입허가시스템
 
