@@ -10,7 +10,7 @@
 - 이름: 정광현
 - 생년월일: 94.04.23
 - 군필여부: [해병 제6여단 작전소대장 경력(중위제대)](https://github.com/wjdrhkd456/RESUME/tree/main/marine_history)
-- 취미: 새벽까지 넷플릭스 보기, 헬스, 축구, 농구, 자전거타기, 만화방가서 만화책보기
+- 취미: 노래부르기, 새벽까지 넷플릭스 보기, 헬스, 축구, 농구, 자전거타기, 만화방가서 만화책보기
 - Email: wjdrhkd456@gmail.com
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
