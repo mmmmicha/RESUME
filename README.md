@@ -42,22 +42,28 @@
 
 ### framework
 - spring
+  - boot
+  - security
+  - mvc
 - mybatis
+
+### aws
+- aws ec2
+- aws rds
 
 ### IDE
 - eclipse
+- intelliJ
 
 ### 버전관리
 - svn
 - git
 
 ### etc
-- Spring MVC
 - RESTful API
 - AJAX
 - docker
 - jenkins
-- maven
 - websquare
 - apache / tomcat
 - jeus / webtob ...
