@@ -15,6 +15,8 @@
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
 
+- mbti: [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
+
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=150px height=150px/>
 
 ## 경력
@@ -75,7 +77,7 @@
 
 ## 프로젝트 이력
 
-[![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)<br/>※ 아직 오픈전인 서비스입니다.
+[![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)<br/>※ 아직 고도오픈전인 서비스입니다.
 
 ### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
