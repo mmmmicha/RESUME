@@ -11,11 +11,10 @@
 - 생년월일: 94.04.23
 - 군필여부: [해병 제6여단 작전소대장 경력(중위제대)](https://github.com/wjdrhkd456/RESUME/tree/main/marine_history)
 - 취미: 노래부르기, 새벽까지 넷플릭스 보기, 헬스, 축구, 농구, 자전거타기, 만화방가서 만화책보기
+- 성격유형(MBIT): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)<br/>
 - Email: wjdrhkd456@gmail.com
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
-
-- mbti: [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=150px height=150px/>
 
