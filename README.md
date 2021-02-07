@@ -15,7 +15,7 @@
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
 
-<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=300px height=300px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=300px height=300px/>
+<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=150px height=150px/>
 
 ## 경력
 - [케이엘넷](http://klnet.co.kr)(2020.04 ~ / SI컨설팅팀 / 웹개발자)
@@ -47,9 +47,11 @@
   - mvc
 - mybatis
 
-### aws
-- aws ec2
-- aws rds
+### AWS
+- ec2
+- rds
+- iam
+- codeDeploy
 
 ### IDE
 - eclipse
@@ -58,6 +60,9 @@
 ### 버전관리
 - svn
 - git
+
+### CI
+- travisCI
 
 ### etc
 - RESTful API
