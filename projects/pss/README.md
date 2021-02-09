@@ -15,8 +15,8 @@
   - language: Java
   - framework: spring(전자정부), mybatis
   - 형상관리: svn
-  - ci: jenkins
-  - IDE: 이클립스
+  - CI/CD: jenkins
+  - IDE: Eclipse
   - server: apache/tomcat
   - DB: oracle, DA#(모델링툴)
 
