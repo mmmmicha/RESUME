@@ -62,14 +62,14 @@
 - svn
 - git
 
-### CI
+### CI/CD
 - travisCI
+- jenkins
 
 ### etc
 - RESTful API
 - AJAX
 - docker
-- jenkins
 - websquare
 - apache / tomcat
 - jeus / webtob ...
