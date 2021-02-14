@@ -80,6 +80,12 @@
 
 [![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)<br/>***※ 아직 고도화 오픈전인 서비스입니다.***
 
+### [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 클론 코딩](https://github.com/wjdrhkd456/springboot_and_aws_exam_project)
+- 분류: Side
+- 소개: 스프링부트, ORM, AWS EC2 를 이용한 간단한 웹 서비스 환경 설정 및 구축
+- 기간: 2021.01 ~ 2021.02
+- 기술스택: Java, springBoot, AWS(ec2, iam, codeDeploy, rds) ...
+
 ### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
 - 분류: 실무
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
