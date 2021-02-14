@@ -68,7 +68,7 @@
 - travisCI
 - jenkins
 
-### etc
+### ETC
 - REST API
 - AJAX
 - docker
