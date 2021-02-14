@@ -82,7 +82,16 @@
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
 - 역할: AS-IS 기능 분석 후 TO-BE 환경으로 기능 전환, 신규기능 개발, 공통서비스 개발, DB관리 보조 
 - 기간: 2020.04 ~ 2020.12(1월 오픈예정)
-- 기술스택: websquare, java, javascript, springMVC, mybatis ...
+- 기술스택: webSquare5, Java, javascript, springMVC, mybatis, REST API ...
+
+### [Do Project!(초급개발자를 위한 프로젝트 모임 플랫폼)](https://github.com/Thankyouteacher/SsangyongFinalproject)
+- 소개: 프로젝트의 기본적인 순서와 필요한 절차들을 제대로 알지 못하는 초급개발자들을 프로그램이 가이드해주고 그에 따라 쌓인 기록들이 프로젝트 경력이 될 수 있는 장점을 갖고 있음
+- 역할
+  - 프로젝트 '진행중' part 담당
+  - Spring/mybatis 환경구축 및 데이터베이스 총 관리
+  - 프로젝트 전반적인 디버깅 및 솔루션 담당
+- 기간: 2019.12 ~ 2020.01
+- 기술스택: Java, Jsp, SpringMvc, mybatis, javascript ...
 
 ## 공동체활동 및 기타활동
 - 스마일FC(축구동호회)(2019.04 ~ 2019.09)
