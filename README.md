@@ -83,7 +83,7 @@
 ### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
 - 역할: AS-IS 기능 분석 후 TO-BE 환경으로 기능 전환, 신규기능 개발, 공통서비스 개발, DB관리 보조 
-- 기간: 2020.04 ~ 2020.12(1월 오픈예정)
+- 기간: 2020.04 ~ 2021.02(2월 오픈예정)
 - 기술스택: webSquare5, Java, javascript, springMVC, mybatis, REST API ...
 
 ### [Do Project!(초급개발자를 위한 프로젝트 모임 플랫폼)](https://github.com/Thankyouteacher/SsangyongFinalproject)
