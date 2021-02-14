@@ -81,12 +81,14 @@
 [![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)<br/>***※ 아직 고도화 오픈전인 서비스입니다.***
 
 ### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
+- 분류: 실무
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
 - 역할: AS-IS 기능 분석 후 TO-BE 환경으로 기능 전환, 신규기능 개발, 공통서비스 개발, DB관리 보조 
 - 기간: 2020.04 ~ 2021.02(2월 오픈예정)
 - 기술스택: webSquare5, Java, javascript, springMVC, mybatis, REST API ...
 
 ### [Do Project!(초급개발자를 위한 프로젝트 모임 플랫폼)](https://github.com/Thankyouteacher/SsangyongFinalproject)
+- 분류: 교육과정
 - 소개: 프로젝트의 기본적인 순서와 필요한 절차들을 제대로 알지 못하는 초급개발자들을 프로그램이 가이드해주고 그에 따라 쌓인 기록들이 프로젝트 경력이 될 수 있는 장점을 갖고 있음
 - 직책: 팀장
 - 역할
