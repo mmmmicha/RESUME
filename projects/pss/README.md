@@ -13,7 +13,7 @@
 - **기술스택**
   - 클라이언트툴: webSquare5(javascript/xml 기반)
   - language: Java
-  - framework: spring(전자정부), mybatis
+  - framework: spring(Egov), mybatis
   - 형상관리: svn
   - CI/CD: jenkins
   - IDE: Eclipse
