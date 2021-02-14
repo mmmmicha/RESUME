@@ -86,6 +86,7 @@
 
 ### [Do Project!(초급개발자를 위한 프로젝트 모임 플랫폼)](https://github.com/Thankyouteacher/SsangyongFinalproject)
 - 소개: 프로젝트의 기본적인 순서와 필요한 절차들을 제대로 알지 못하는 초급개발자들을 프로그램이 가이드해주고 그에 따라 쌓인 기록들이 프로젝트 경력이 될 수 있는 장점을 갖고 있음
+- 직책: 팀장
 - 역할
   - 프로젝트 '진행중' part 담당
   - Spring/mybatis 환경구축 및 데이터베이스 총 관리
