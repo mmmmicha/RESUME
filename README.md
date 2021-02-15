@@ -51,10 +51,11 @@
 - mybatis
 
 ### AWS
-- ec2
-- rds
-- iam
+- EC2
+- RDS
+- IAM
 - codeDeploy
+- S3
 
 ### IDE
 - eclipse
