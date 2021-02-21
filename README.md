@@ -34,9 +34,9 @@
 
 ## 기술 스택
 ### Language
-- java
-- Golang(2021년 
-- javascript / jquery
+- **java**
+- Go
+- **javascript** / jquery
 - html / jsp / css
 
 ### DB
