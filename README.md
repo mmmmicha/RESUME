@@ -89,12 +89,12 @@
 - 기술스택: Java, springBoot, AWS(ec2, iam, codeDeploy, rds) ...
 <br/>
 
-[![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)<br/>***※ 아직 고도화 오픈전인 서비스입니다.***
+[![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)<br/>~~***※ 아직 고도화 오픈전인 서비스입니다.***~~
 ### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
 - 분류: 실무
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
 - 역할: AS-IS 기능 분석 후 TO-BE 환경으로 기능 전환, 신규기능 개발, 공통서비스 개발, DB관리 보조 
-- 기간: 2020.04 ~ 2021.02(2월 오픈예정)
+- 기간: 2020.04 ~ 2021.02~~(2월 오픈예정)~~
 - 기술스택: webSquare5, Java, javascript, springMVC, mybatis, REST API ...
 <br/>
 
