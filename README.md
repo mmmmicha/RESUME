@@ -72,11 +72,11 @@
 ### CI/CD
 - travisCI
 - jenkins
+- docker
 
 ### ETC
 - REST API
 - AJAX
-- docker
 - websquare5
 - apache / tomcat
 - jeus / webtob ...
