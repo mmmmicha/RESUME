@@ -86,7 +86,7 @@
 - 분류: ``실무``
 - 소개: PORTMIS 웹 어플리케이션 고도화 사업
 - 기간: 2021.02 ~
-- 역할: DB용어 표준화 및 webSquare5 API(js 기반) 버젼업 적용 / '증명서발급창구' 서버 설계 및 개발
+- 역할: DB용어 표준화 및 webSquare5 엔진 업그레이드에 따른 API(js 기반) 변경사항 적용 / '증명서발급창구' 서버 설계 및 개발
 - 기술스택: javascript, websquare5(컴포넌트툴), DA#(모델링툴) / java, spring Framework ...
 <br/>
 
