@@ -19,7 +19,8 @@
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=150px height=150px/>
 
 ## 경력
-- [케이엘넷](http://klnet.co.kr)(2020.04 ~ / SI컨설팅팀 / 웹개발자)
+- [키위스마트락](https://thekeywe.com/)(2021.04 ~ / server팀 / 백엔드서버개발자)
+- [케이엘넷](http://klnet.co.kr)(2020.04 ~ 2021.03/ SI컨설팅팀 / 웹개발자)
 
 ## 수료교육
 - 도커 기반의 경량 클라우드 서비스 설계, 구축(2020.12)
@@ -85,7 +86,7 @@
 ### PORTMIS 고도화
 - 분류: ``실무``
 - 소개: PORTMIS 웹 어플리케이션 고도화 사업
-- 기간: 2021.02 ~
+- 기간: 2021.02 ~ 2021.03
 - 역할: DB용어 표준화 및 webSquare5 엔진 업그레이드에 따른 API(js 기반) 변경사항 적용 / '증명서발급창구' 서버 설계 및 개발
 - 기술스택: javascript, websquare5(컴포넌트툴), DA#(모델링툴) / java, spring Framework ...
 <br/>
