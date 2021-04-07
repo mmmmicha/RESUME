@@ -19,7 +19,7 @@
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=150px height=150px/>
 
 ## 경력
-- [키위스마트락](https://thekeywe.com/)(2021.04 ~ / server팀 / 백엔드서버개발자)
+- [키위스마트락](https://thekeywe.com/)(2021.04 ~ / 백엔드팀 / 백엔드개발자)
 - [케이엘넷](http://klnet.co.kr)(2020.04 ~ 2021.03/ SI컨설팅팀 / 웹개발자)
 
 ## 수료교육
