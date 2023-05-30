@@ -4,19 +4,18 @@
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/>
 
 ```
-승부욕이 강하지만 부족함을 인정하고 배우길 즐기는 개발자입니다.
+의견 내길 즐기는 개발자입니다. 모든 일에 주인의식과 책임감으로 임합니다.
 ```
 
 - 이름: 정광현
 - 생년월일: 94.04.23
 - 군필여부: [해병 제6여단 작전소대장 경력(중위제대)](https://github.com/wjdrhkd456/RESUME/tree/main/marine_history)
-- 취미: 노래부르기, 헬스, 축구, 농구, 자전거타기, 만화책보기
+- 결혼여부: 기혼(23.04.22~)
+- 취미: 파워빌딩, 노래부르기, 축구, 농구, 탁구, 자전거타기, 만화책보기
 - 성격유형(MBIT): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 - Email: wjdrhkd456@gmail.com
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
-
-<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/soccer.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/give_and_race.jpg' width=150px height=150px/> <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/marine.jpg' width=150px height=150px/>
 
 ## 경력
 - [키위스마트락](https://thekeywe.com/)(2021.04 ~ / 백엔드팀 / 백엔드개발자)
@@ -38,14 +37,17 @@
 
 ## 기술 스택
 ### Language
-- **java**
+- **javascript** / **typescript**
+- C#
+- java
 - Go
-- **javascript** / jquery
+- jquery
 - html / jsp / css
 
 ### DB
+- **mongoDB**
+- **mysql**
 - oracle
-- mysql
 - DA#(modeling tool)
 
 ### framework
@@ -54,21 +56,37 @@
   - security
   - mvc
 - mybatis
+- serverless(aws lambda 와 연결하여 사용)
+- 
 
 ### AWS
+- Elastic Beanstalk
+- Elastic Container Service(ECS)
+  - Elastic Container Repository(ECR)
+- Elastic Cache
+  - Redis
 - EC2
+  - 보안그룹
+  - 탄력적 IP
+  - 로드밸런서
+  - 대상 그룹
 - RDS
+  - Aurora
+- Route53
+- VPC
+- Lambda
 - IAM
 - codeDeploy
 - S3
 
 ### IDE
+- VS / VSCode
 - eclipse
 - intelliJ
 
 ### 버전관리
+- **github**
 - svn
-- github
 
 ### CI/CD
 - travisCI
