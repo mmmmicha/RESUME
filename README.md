@@ -4,7 +4,7 @@
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/>
 
 ```
-의견 내길 즐기는 개발자입니다. 모든 일에 주인의식과 책임감으로 임합니다.
+모든 일에 주인의식과 책임감으로 임합니다. 목소리 내길 즐기는 개발자입니다.
 ```
 
 - 이름: 정광현
@@ -13,6 +13,8 @@
 - 결혼여부: 기혼(23.04.22~)
 - 취미: 파워빌딩, 노래부르기, 축구, 농구, 탁구, 자전거타기, 만화책보기
 - 성격유형(MBIT): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
+- 영어능력
+  - 회화: **상(외국인 팀원과 협업 경력 2년 / 외국인 솔루션 업체와 협업 경험 有)**
 - Email: wjdrhkd456@gmail.com
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
@@ -36,19 +38,23 @@
 - 정보처리기사
 
 ## 기술 스택
-### Language
-- **javascript** / **typescript**
+### Language & library & platform
+- **javascript** / **typescript** / **nodejs** / **nextjs(vercel)**
+- reactjs
 - C#
 - java
 - Go
-- jquery
-- html / jsp / css
 
-### DB
+### DB & memory
 - **mongoDB**
 - **mysql**
+- **redis**
+- levelDB
 - oracle
 - DA#(modeling tool)
+
+### os
+- **linux**
 
 ### framework
 - spring
@@ -57,7 +63,7 @@
   - mvc
 - mybatis
 - serverless(aws lambda 와 연결하여 사용)
-- 
+- dotent framework / dotnet core
 
 ### AWS
 - Elastic Beanstalk
@@ -71,16 +77,22 @@
   - 로드밸런서
   - 대상 그룹
 - RDS
-  - Aurora
+  - Aurora(mysql base)
 - Route53
 - VPC
 - Lambda
 - IAM
-- codeDeploy
+- codepipeline
+  - code
 - S3
 
-### IDE
-- VS / VSCode
+### Blockchain
+- Hyperledger fabric
+  - IBM vscode extension
+  - Kaleido
+
+### IDE & editor
+- **VSCode** / VS 
 - eclipse
 - intelliJ
 
@@ -89,16 +101,21 @@
 - svn
 
 ### CI/CD
+- **docker**
+- **github action(with Elastic Beanstalk)**
+- **codepipeline**
 - travisCI
-- jenkins
-- docker
 
-### ETC
-- REST API
-- AJAX
-- websquare5
+### 협업툴
+- slack
+- monday
+- notion
+- flex
+- figma
+
+### web server
 - apache / tomcat
-- jeus / webtob ...
+- nginx
 
 ## 프로젝트 이력
 ### PORTMIS 고도화
@@ -137,7 +154,7 @@
 - 기술스택: Java, Jsp, SpringMvc, mybatis, javascript ...
 
 ## 공동체활동 및 기타활동
-- 스마일FC(축구동호회)(2019.04 ~ 2019.09)
+- 스마일FC(축구동호회)(2019.04 ~)
 - 기브앤레이스 마라톤 10K(2019.05)
 - ROTC(2015 ~ 2017)
 - IONIC LOGEST RUN 마라톤 10K(2016.11)
