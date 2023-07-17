@@ -38,14 +38,14 @@
 - 정보처리기사
 
 ## 기술 스택
-### Language & library & platform
+### LANGUAGE & LIBRARY & PLATFORM
 - ***javascript*** / ***typescript*** / ***nodejs*** / ***nextjs(vercel)***
 - reactjs
 - C#
 - java
 - Go
 
-### DB & memory
+### DB & MEMORY
 - ***mongoDB***
 - ***mysql***
 - ***redis***
@@ -53,10 +53,10 @@
 - oracle
 - DA#(modeling tool)
 
-### os
+### OS
 - ***linux***
 
-### framework
+### FRAMEWORK
 - spring
   - boot
   - security
@@ -86,12 +86,12 @@
   - code
 - S3
 
-### Blockchain
+### BLOCKCHAIN
 - Hyperledger fabric
   - IBM vscode extension
   - Kaleido
 
-### IDE & editor
+### IDE & EDITOR
 - ***VSCode*** / VS 
 - eclipse
 - intelliJ
@@ -113,7 +113,7 @@
 - flex
 - figma
 
-### web server
+### WEB SERVER
 - apache / tomcat
 - nginx
 
