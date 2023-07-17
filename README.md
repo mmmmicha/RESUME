@@ -11,7 +11,7 @@
 - 생년월일: 94.04.23
 - 군필여부: [해병 제6여단 작전소대장 경력(중위제대)](https://github.com/wjdrhkd456/RESUME/tree/main/marine_history)
 - 결혼여부: 기혼(23.04.22~)
-- 취미: 파워빌딩, 노래부르기, 축구, 농구, 탁구, 자전거타기, 만화책보기
+- 취미: 파워빌딩, 노래부르기, 축구, 농구, 탁구
 - 성격유형(MBIT): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 - 영어능력
   - 회화: **상(외국인 팀원과 협업 경력 2년 / 외국인 솔루션 업체와 협업 경험 有)**
@@ -19,9 +19,9 @@
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
 
-## 경력
-- [키위스마트락](https://thekeywe.com/)(2021.04 ~ / 백엔드팀 / 백엔드개발자)
-- [케이엘넷](http://klnet.co.kr)(2020.04 ~ 2021.03/ SI컨설팅팀 / 웹개발자)
+## 경력 & 프로젝트
+- [참깨연구소](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab)(2021.04 ~ 2023.07 / 백엔드팀 / 백엔드개발자)
+- [케이엘넷](https://github.com/wjdrhkd456/RESUME/tree/main/projects/klnet)(2020.04 ~ 2021.03 / SI컨설팅팀 / 웹개발자)
 
 ## 수료교육
 - 도커 기반의 경량 클라우드 서비스 설계, 구축(2020.12)
@@ -117,29 +117,12 @@
 - apache / tomcat
 - nginx
 
-## 프로젝트 이력
-### PORTMIS 고도화
-- 분류: ``실무``
-- 소개: PORTMIS 웹 어플리케이션 고도화 사업
-- 기간: 2021.02 ~ 2021.03
-- 역할: DB용어 표준화 및 webSquare5 엔진 업그레이드에 따른 API(js 기반) 변경사항 적용 / '증명서발급창구' 서버 설계 및 개발
-- 기술스택: javascript, websquare5(컴포넌트툴), DA#(모델링툴) / java, spring Framework ...
-<br/>
-
+## 기타 프로젝트 이력
 ### [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 Clone Coding](https://github.com/wjdrhkd456/springboot_and_aws_exam_project)
 - 분류: ``Side``
 - 소개: 스프링부트, ORM, AWS EC2 를 이용한 간단한 웹 서비스 환경 설정 및 구축
 - 기간: 2021.01 ~ 2021.02
 - 기술스택: Java, springBoot, AWS(ec2, iam, codeDeploy, rds) ...
-<br/>
-
-[![참고자료1](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/permit.PNG)](#)<br/>~~***※ 아직 고도화 오픈전인 서비스입니다.***~~
-### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/pss)
-- 분류: ``실무``
-- 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
-- 역할: AS-IS 기능 분석 후 TO-BE 환경으로 기능 전환, 신규기능 개발, 공통서비스 개발, DB관리 보조 
-- 기간: 2020.04 ~ 2021.02
-- 기술스택: webSquare5, Java, javascript, springMVC, mybatis, REST API ...
 <br/>
 
 ### [Do Project!(초급개발자를 위한 프로젝트 모임 플랫폼)](https://github.com/Thankyouteacher/SsangyongFinalproject)
@@ -154,6 +137,7 @@
 - 기술스택: Java, Jsp, SpringMvc, mybatis, javascript ...
 
 ## 공동체활동 및 기타활동
+- 테스토스테론(사내 파워리프팅 동아리)(2022.09 ~ 2023.07)
 - 스마일FC(축구동호회)(2019.04 ~)
 - 기브앤레이스 마라톤 10K(2019.05)
 - ROTC(2015 ~ 2017)
