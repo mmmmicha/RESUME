@@ -14,7 +14,7 @@
 - 취미: 파워빌딩, 노래부르기, 축구, 농구, 탁구
 - 성격유형(MBIT): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 - 영어능력
-  - 회화: **상(외국인 팀원과 협업 경력 2년 / 외국인 솔루션 업체와 협업 경험 有)**
+  - 회화: ***상(외국인 팀원과 협업 경력 2년 / 외국인 솔루션 업체와 협업 경험 有)***
 - Email: wjdrhkd456@gmail.com
 - instagram: [https://www.instagram.com/_ppang_dev/](https://www.instagram.com/_ppang_dev/)
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
@@ -39,22 +39,22 @@
 
 ## 기술 스택
 ### Language & library & platform
-- **javascript** / **typescript** / **nodejs** / **nextjs(vercel)**
+- ***javascript*** / ***typescript*** / ***nodejs*** / ***nextjs(vercel)***
 - reactjs
 - C#
 - java
 - Go
 
 ### DB & memory
-- **mongoDB**
-- **mysql**
-- **redis**
+- ***mongoDB***
+- ***mysql***
+- ***redis***
 - levelDB
 - oracle
 - DA#(modeling tool)
 
 ### os
-- **linux**
+- ***linux***
 
 ### framework
 - spring
@@ -92,18 +92,18 @@
   - Kaleido
 
 ### IDE & editor
-- **VSCode** / VS 
+- ***VSCode*** / VS 
 - eclipse
 - intelliJ
 
 ### 버전관리
-- **github**
+- ***github***
 - svn
 
 ### CI/CD
-- **docker**
-- **github action(with Elastic Beanstalk)**
-- **codepipeline**
+- ***docker***
+- ***github action(with Elastic Beanstalk)***
+- ***codepipeline***
 - travisCI
 
 ### 협업툴

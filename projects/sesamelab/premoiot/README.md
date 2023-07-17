@@ -1,8 +1,8 @@
 # Premo IoT
 
 ## 소개
-- **기간** : xxxx.xx ~ xxxx.xx
-- **직무** : 웹 클라이언트, server 개발
+- **기간** : 2021.04 ~ 2023.07
+- **직무** : server 유지보수
 - **프로젝트설명**
   - ```jsp/servlet``` 기반의 프로그램을 ```webSquare5/springMVC```([webSquare5](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/websquare5.xml&product=ws&seq=11)) 기반의 프로그램으로 전환
   - 기존프로그램에서의 장애 및 문제점 분석 후 개선
