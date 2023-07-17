@@ -1,7 +1,7 @@
-# 항만출입관리시스템 & 항만출입허가시스템
+# Keyin
 
 ## 소개
-- **기간** : 2020.04 ~ 2021.02
+- **기간** : xxxx.xx ~ xxxx.xx
 - **직무** : 웹 클라이언트, server 개발
 - **프로젝트설명**
   - ```jsp/servlet``` 기반의 프로그램을 ```webSquare5/springMVC```([webSquare5](https://www.inswave.com/websquare/websquare.html?w2xPath=/websquare5/websquare5.xml&product=ws&seq=11)) 기반의 프로그램으로 전환

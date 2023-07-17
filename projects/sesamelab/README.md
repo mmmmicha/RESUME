@@ -1,4 +1,6 @@
-### 엘리베이터 로컬 에이전트
+# [SESAMELAB(참깨연구소)](https://www.sesame-lab.com/)
+
+### [엘리베이터 로컬 에이전트](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/evagent)
 - 분류: ``실무``
 - 소개: TK, 현대, OTIS 등의 CRT 모니터 서버와 통신할 수 있는 로컬 에이전트 서버
 - 기간: 2023.05 ~ 2023.07
@@ -7,7 +9,7 @@
 - 기술스택: C#, Dotnet Core, AWS(rds(mysql)) ...
 <br/>
 
-### Background worker
+### [Background worker](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/backgroundworker)
 - 분류: ``실무``
 - 소개: Keyring 등 사내 서비스 사용 및 관리의 편의를 위한 툴
 - 기간: 2021.08 ~ 2023.07
@@ -18,7 +20,7 @@
 - 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
 <br/>
 
-### Backoffice
+### [Backoffice](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/backoffice)
 - 분류: ``실무``
 - 소개: Keyring 등 사내 서비스 사용 및 관리의 편의를 위한 툴
 - 기간: 2022.04 ~ 2023.07
@@ -29,7 +31,7 @@
 - 기술스택: typescript, nextjs, mongoDB, vercel, linux, AWS(s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
 <br/>
 
-### Keyring
+### [Keyring](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/keyring)
 - 분류: ``실무``
 - 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼
 - 기간: 2021.08 ~ 2023.07
@@ -43,7 +45,7 @@
 - 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
 <br/>
 
-### Keyin
+### [Keyin](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/keyin)
 - 분류: ``실무``
 - 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 프로젝트
 - 기간: 2021.06 ~ 2021.10
@@ -53,7 +55,7 @@
 - 기술스택: C#, Dotnet Core, docker, linux, AWS(ec2, vpc, rds(mysql)), FCM, Redis ...
 <br/>
 
-### KeyweOn
+### [KeyweOn](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/keyweon)
 - 분류: ``실무``
 - 소개: 자체 생산한 도어벨을 제어 및 관리하기 위해 만들어진 프로젝트
 - 기간: 2021.06 ~ 2021.10
@@ -63,7 +65,7 @@
 - 기술스택: C#, Dotnet Core, docker, linux, AWS(ec2, vpc, rds(mysql)), FCM, Redis ...
 <br/>
 
-### Premo IoT
+### [Premo IoT](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/premoiot)
 - 분류: ``실무``
 - 소개: ZWave 프로토콜을 이용하는 도어락 및 허브 정보 / 파트너정보 / 핀코드 등을 관리하며, ZWave 장치들을 제어하기 위해 만들어진 프로젝트
 - 기간: 2021.04 ~ 2023.07
