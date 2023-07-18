@@ -4,6 +4,7 @@
 ### 엘리베이터 로컬 에이전트
 - 분류: ``실무``
 - 소개: TK, 현대, OTIS 등의 CRT 모니터 서버와 통신할 수 있는 로컬 에이전트 서버
+- 구성원: 2명
 - 기간: 2023.05 ~ 2023.07
 - 역할
   - OTIS_EMS 모니터 서버에 커맨드를 주고 받는 에이전트 서버 개발 및 유지보수
@@ -13,6 +14,7 @@
 ### Background worker
 - 분류: ``실무``
 - 소개: Keyring 앱 통계를 위해 만든 프로세스
+- 구성원: 1명
 - 기간: 2023.01 ~ 2023.07
 - 역할
   - 생성된 유저 / 단지 / 발급된 키를 통계내는 배치 프로그램 개발 및 유지보수
@@ -23,6 +25,7 @@
 ### Backoffice
 - 분류: ``실무``
 - 소개: Keyring 등 사내 서비스 사용 및 관리의 편의를 위한 툴
+- 구성원: 1명
 - 기간: 2022.04 ~ 2023.07
 - 역할
   - keyring notice 관리 시스템 풀스택 개발 및 유지보수
@@ -34,6 +37,7 @@
 ### [![Keyring](https://github.com/wjdrhkd456/RESUME/blob/main/projects/sesamelab/keyring/images/keyring_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) [Keyring](https://www.keyring.life/)
 - 분류: ``실무``
 - 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼
+- 구성원: 2명(백엔드 한정)
 - 기간: 2021.08 ~ 2023.07
 - 역할
   - 배포시스템 구축(codepipeline 기반 / github action 기반)
@@ -48,6 +52,7 @@
 ### [![Keyin](https://github.com/wjdrhkd456/RESUME/blob/main/projects/sesamelab/keyin/images/keyin_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) Keyin
 - 분류: ``실무``
 - 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 프로젝트
+- 구성원: 1명
 - 기간: 2021.06 ~ 2021.10
 - 역할
   - 도어락 CRUD, 파트너 관리, 도어락 제어 및 핀코드 변경등을 수행하는 앱 API 서버 개발 및 유지보수
@@ -58,6 +63,7 @@
 ### KeyweOn
 - 분류: ``실무``
 - 소개: 자체 생산한 도어벨을 제어 및 관리하기 위해 만들어진 프로젝트
+- 구성원: 2명
 - 기간: 2021.06 ~ 2021.10
 - 역할
   - 도어벨 제어서버 앞단에 위치하는 도어벨 CRUD, 파트너 관리 등을 수행하는 앱 API 서버 개발 및 유지보수
@@ -68,6 +74,7 @@
 ### Premo IoT
 - 분류: ``실무``
 - 소개: ZWave 프로토콜을 이용하는 도어락 및 허브 정보 / 파트너정보 / 핀코드 등을 관리하며, ZWave 장치들을 제어하기 위해 만들어진 프로젝트
+- 구성원: 2명
 - 기간: 2021.04 ~ 2023.07
 - 역할
   - 서버 모니터링 및 유지보수(mgrv, onda 등의 업체들의 개발cs 대응)
