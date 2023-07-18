@@ -1,5 +1,6 @@
 ## 소개
-<img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/>
+![profile](https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg =300x300)
+<!-- <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/> -->
 
 ```
 안녕하세요! 저는 책임감과 주인의식이 강한 성격을 가진 개발자입니다. 항상 열린 자세로 소통하며 의사표현을 주저하지 않습니다.
