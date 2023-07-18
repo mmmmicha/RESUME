@@ -1,6 +1,19 @@
 # SESAMELAB(참깨연구소)
 - 회사 정보: https://www.sesame-lab.com/
 
+## 저는 도전전문가입니다.
+```
+이전 회사에서는 주로 자바와 JSP를 사용하여 웹개발을 진행했습니다. 그러나 지금의 회사에서는 완전히 다른 환경과 기술을 사용하고 있었습니다. C#이 주 언어로 사용되며, AWS와 Docker와 같은 비교적 신기술들을 활용하고 있었습니다.
+
+회사 내에는 백엔드 개발자가 3명뿐이었으며, 각자가 담당한 업무가 많다보니 자세한 인수인계와 도움을 받기란 어려운 상황이었습니다. 그러던 중 선임 개발자가 퇴사하며 메인 서비스의 유지보수까지 맡게 되었습니다.
+
+가까스로 적응을 하고 있던 무렵, 회사에서는 블록체인 개발자가 없는 상황에서 블록체인을 도입하고자 했고, 기반지식이 없는 상태에서 도전을 시도했습니다. 이 무렵 우리팀은 C#을 벗어나 Node.js 기반의 프로그래밍을 시도하고 있기도 했습니다.
+
+결국 성공적으로 서비스를 런칭하였고, 제가 메인서버를 담당하게 되었습니다. 동시에 AWS 인프라를 공부하면서 CodePipeline을 기반으로한 배포 시스템을 구축하기도 했습니다.
+
+현재 시점에서는 맡은 서비스가 15개 이상이며, 지속적인 도전의 연속입니다. 언제나 도전에 즐거움을 느끼며 자신감이 넘치고 있습니다. 이런 새로운 도전을 통해 끊임없이 성장하고 있습니다.
+```
+
 ### 엘리베이터 로컬 에이전트
 - 분류: ``실무``
 - 소개: TK, 현대, OTIS 등의 CRT 모니터 서버와 통신할 수 있는 로컬 에이전트 서버
@@ -34,7 +47,7 @@
 - 기술스택: typescript, nextjs, mongoDB, vercel, linux, AWS(s3, beanstalk, ECS, ECR, codepipeline ...), FCM ...
 <br/>
 
-### [![Keyring](https://github.com/wjdrhkd456/RESUME/blob/main/projects/sesamelab/keyring/images/keyring_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) [Keyring](https://www.keyring.life/)
+### [![Keyring](./keyring/images/keyring_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) [Keyring](https://www.keyring.life/)
 - 분류: ``실무``
 - 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼
 - 구성원: 2명(백엔드 한정)
@@ -49,7 +62,7 @@
 - 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
 <br/>
 
-### [![Keyin](https://github.com/wjdrhkd456/RESUME/blob/main/projects/sesamelab/keyin/images/keyin_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) Keyin
+### [![Keyin](./keyin/images/keyin_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) Keyin
 - 분류: ``실무``
 - 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 프로젝트
 - 구성원: 1명

@@ -22,7 +22,7 @@
 
 ## 항만출입관리시스템
 
-<image src='https://github.com/wjdrhkd456/RESUME/blob/main/projects/klnet/pss/images/apply_main.PNG' width='700px' height='400px'/>
+<image src='./images/apply_main.PNG' width='700px' height='400px'/>
 ※ 게시판관련 내용은 마스킹처리했습니다.
 
 ### 1. 담당 서비스
@@ -32,7 +32,7 @@
 
 ## 항만출입허가시스템
 
-<image src='https://github.com/wjdrhkd456/RESUME/blob/main/projects/klnet/pss/images/permit_main.PNG' width='700px' height='400px'/>
+<image src='./images/permit_main.PNG' width='700px' height='400px'/>
 ※ 게시판관련 내용은 마스킹처리했습니다.
 
 ### 1. 담당 서비스
