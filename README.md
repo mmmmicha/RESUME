@@ -1,5 +1,3 @@
-# 개발자 정광현을 소개합니다!
-
 ## 소개
 <img src='https://github.com/wjdrhkd456/RESUME/blob/main/IMAGES/mainProfile.jpg' width=300px height=300px/>
 
