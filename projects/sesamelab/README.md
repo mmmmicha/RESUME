@@ -1,6 +1,7 @@
-# [SESAMELAB(참깨연구소)](https://www.sesame-lab.com/)
+# SESAMELAB(참깨연구소)
+- 회사 정보: https://www.sesame-lab.com/
 
-### [엘리베이터 로컬 에이전트](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/evagent)
+### 엘리베이터 로컬 에이전트
 - 분류: ``실무``
 - 소개: TK, 현대, OTIS 등의 CRT 모니터 서버와 통신할 수 있는 로컬 에이전트 서버
 - 기간: 2023.05 ~ 2023.07
@@ -9,29 +10,28 @@
 - 기술스택: C#, Dotnet Core, AWS(rds(mysql)) ...
 <br/>
 
-### [Background worker](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/backgroundworker)
+### Background worker
 - 분류: ``실무``
-- 소개: Keyring 등 사내 서비스 사용 및 관리의 편의를 위한 툴
-- 기간: 2021.08 ~ 2023.07
+- 소개: Keyring 앱 통계를 위해 만든 프로세스
+- 기간: 2023.01 ~ 2023.07
 - 역할
-  - keyring notice 관리 시스템 풀스택 개발
-  - keyring pushnotification 관리 시스템 풀스택 개발
-  - s3 를 이용한 파일 업로드 시스템 풀스택 개발
-- 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
+  - 생성된 유저 / 단지 / 발급된 키를 통계내는 배치 프로그램 개발 및 유지보수
+  - 키 사용현황을 통계내는 배치 프로그램 개발 및 유지보수
+- 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql)) ...
 <br/>
 
-### [Backoffice](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/backoffice)
+### Backoffice
 - 분류: ``실무``
 - 소개: Keyring 등 사내 서비스 사용 및 관리의 편의를 위한 툴
 - 기간: 2022.04 ~ 2023.07
 - 역할
   - keyring notice 관리 시스템 풀스택 개발 및 유지보수
   - keyring pushnotification 관리 시스템 풀스택 개발 및 유지보수
-  - s3 를 이용한 파일 업로드 시스템 풀스택 개발 및 유지보수
-- 기술스택: typescript, nextjs, mongoDB, vercel, linux, AWS(s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
+  - 파일 업로드 시스템 풀스택 개발 및 유지보수
+- 기술스택: typescript, nextjs, mongoDB, vercel, linux, AWS(s3, beanstalk, ECS, ECR, codepipeline ...), FCM ...
 <br/>
 
-### [Keyring](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/keyring)
+### ![Keyring](https://www.keyring.life/)
 - 분류: ``실무``
 - 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼
 - 기간: 2021.08 ~ 2023.07
@@ -45,7 +45,7 @@
 - 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
 <br/>
 
-### [Keyin](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/keyin)
+### Keyin
 - 분류: ``실무``
 - 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 프로젝트
 - 기간: 2021.06 ~ 2021.10
@@ -55,7 +55,7 @@
 - 기술스택: C#, Dotnet Core, docker, linux, AWS(ec2, vpc, rds(mysql)), FCM, Redis ...
 <br/>
 
-### [KeyweOn](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/keyweon)
+### KeyweOn
 - 분류: ``실무``
 - 소개: 자체 생산한 도어벨을 제어 및 관리하기 위해 만들어진 프로젝트
 - 기간: 2021.06 ~ 2021.10
@@ -65,7 +65,7 @@
 - 기술스택: C#, Dotnet Core, docker, linux, AWS(ec2, vpc, rds(mysql)), FCM, Redis ...
 <br/>
 
-### [Premo IoT](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab/premoiot)
+### Premo IoT
 - 분류: ``실무``
 - 소개: ZWave 프로토콜을 이용하는 도어락 및 허브 정보 / 파트너정보 / 핀코드 등을 관리하며, ZWave 장치들을 제어하기 위해 만들어진 프로젝트
 - 기간: 2021.04 ~ 2023.07
