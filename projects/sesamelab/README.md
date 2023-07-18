@@ -31,7 +31,7 @@
 - 기술스택: typescript, nextjs, mongoDB, vercel, linux, AWS(s3, beanstalk, ECS, ECR, codepipeline ...), FCM ...
 <br/>
 
-### ![Keyring](https://www.keyring.life/)
+### [![Keyring](https://github.com/wjdrhkd456/RESUME/blob/main/projects/keyring/images/keyring_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) [Keyring](https://www.keyring.life/)
 - 분류: ``실무``
 - 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼
 - 기간: 2021.08 ~ 2023.07
@@ -45,7 +45,7 @@
 - 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
 <br/>
 
-### Keyin
+### [![Keyin](https://github.com/wjdrhkd456/RESUME/blob/main/projects/keyin/images/keyin_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) Keyin
 - 분류: ``실무``
 - 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 프로젝트
 - 기간: 2021.06 ~ 2021.10
