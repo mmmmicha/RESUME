@@ -19,7 +19,7 @@
 - 군필여부: [해병 제6여단 작전소대장 경력(중위제대)](https://github.com/wjdrhkd456/RESUME/tree/main/marine_history)
 - 결혼여부: 기혼(23.04.22~)
 - 취미: 파워빌딩, 노래부르기, 축구, 농구, 탁구
-- 성격유형(MBIT): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
+- 성격유형(MBTI): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 - 영어능력
   - 회화: ***상(외국인 팀원과 협업 경력 2년 / 외국인 솔루션 업체와 협업 경험 有)***
 - Email: wjdrhkd456@gmail.com
