@@ -1,5 +1,5 @@
 ## 소개
-<img src='./IMAGES/mainProfile3.jpg' width=300px height=300px/>
+<img src='./IMAGES/mainprofile3.jpg' width=300px height=300px/>
 
 
 ```
