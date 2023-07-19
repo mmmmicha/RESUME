@@ -90,7 +90,6 @@
 - Lambda
 - IAM
 - codepipeline
-  - code
 - S3
 
 ### BLOCKCHAIN
