@@ -48,7 +48,7 @@
 - 기술스택: typescript, nextjs, mongoDB, vercel, linux, AWS(s3, beanstalk, ECS, ECR, codepipeline ...), FCM ...
 <br/>
 
-### [![Keyring](./keyring/images/keyring_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) [Keyring](https://www.keyring.life/)
+### [![Keyring](./keyring/images/keyring_logo2.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) [Keyring](https://www.keyring.life/)
 - 분류: ``실무``
 - 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼
 - 구성원: 2명(백엔드 한정)
@@ -64,7 +64,7 @@
 - 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
 <br/>
 
-### [![Keyin](./keyin/images/keyin_logo.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) Keyin
+### [![Keyin](./keyin/images/keyin_logo2.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) Keyin
 - 분류: ``실무``
 - 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 프로젝트
 - 구성원: 1명(백엔드 한정)
