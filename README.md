@@ -6,16 +6,16 @@
 ```
 
 ## 핵심역량
-- 주로 node.js와 typescript를 사용하여 개발 업무를 수행하며, AWS를 활용하여 인프라 구축 및 배포까지 전 프로세스 경험
-- 스마트홈과 IoT에 대한 도메인 경험
-- 웹소켓을 이용한 바이트단위 통신 개발 경험
+- 주로 node.js와 typescript 를 사용하여 개발 업무를 수행하며, AWS를 활용하여 인프라 구축 및 배포까지 전 프로세스 경험
+- next.js 및 vercel 을 이용한 serverless 풀스택 개발 경험
+- REST API 설계 및 구축 경험
 
 ## 프로필
 - 이름: 정광현
 - 생년월일: 94.04.23
 - 군필여부: [해병 제6여단 작전소대장 경력(중위제대)](https://github.com/wjdrhkd456/RESUME/tree/main/marine_history)
 - 결혼여부: 기혼(23.04.22~)
-- 취미: 파워빌딩, 노래부르기, 축구, 농구, 탁구
+- 취미: 파워리프팅, 노래부르기, 축구, 농구, 탁구
 - 성격유형(MBTI): [ENFP-T](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-enfp)
 - 영어능력
   - 회화: ***상(외국인 팀원과 협업 경력 2년 / 외국인 솔루션 업체와 협업 경험 有)***
@@ -28,6 +28,7 @@
 - [케이엘넷](https://github.com/wjdrhkd456/RESUME/tree/main/projects/klnet)(2020.04 ~ 2021.03 / SI컨설팅팀 / 웹개발자)
 
 ## 수료교육
+- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8)(2023.08 ~ 2023.09)
 - 도커 기반의 경량 클라우드 서비스 설계, 구축(2020.12)
 - [스프링(전자정부 표준) 활용 시스템 통합 개발 실무](https://github.com/wjdrhkd456/SpringDigitalGovermentFramework)(2020.05)
 - [webSquare client Tool 관련 교육](https://github.com/wjdrhkd456/WebSquare5)(2020.04)
