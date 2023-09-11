@@ -24,6 +24,9 @@
 - GitHub: [github.com/wjdrhkd456](https://github.com/wjdrhkd456)
 
 ## 경력 & 프로젝트
+```
+사명을 클릭하시면 프로젝트페이지로 이동합니다.
+```
 - [참깨연구소](https://github.com/wjdrhkd456/RESUME/tree/main/projects/sesamelab)(2021.04 ~ 2023.07 / 백엔드팀 / 백엔드개발자)
 - [케이엘넷](https://github.com/wjdrhkd456/RESUME/tree/main/projects/klnet)(2020.04 ~ 2021.03 / SI컨설팅팀 / 웹개발자)
 
