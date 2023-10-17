@@ -37,8 +37,9 @@
 <br/>
 
 
-### [항만 출입 관리 시스템 고도화](https://github.com/wjdrhkd456/RESUME/tree/main/projects/klnet/pss)
-[![참고자료1](../..//IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](../../IMAGES/permit.PNG)](#)<br/>~~***※ 아직 고도화 오픈전인 서비스입니다.***~~
+### 항만 출입 관리 시스템 고도화
+[![참고자료1](../..//IMAGES/apply.PNG)](https://pss.mof.go.kr) [![참고자료2](../../IMAGES/permit.PNG)](#)<br/>
+※ <항만출입관리시스템 고도화> 에 대한 상세 이력을 보시려면 이 [링크](./pss/README.md)를 클릭해주세요.
 - 분류: ``실무``
 - 소개: 항만 출입 관리 시스템, 항만 출입 허가 시스템 고도화 사업 
 - 구성원: 8명

@@ -38,7 +38,7 @@
 
 ### Background worker
 - 분류: ``실무``
-- 소개: Keyring 앱 통계를 위해 만든 프로세스
+- 소개: Keyring 앱 통계를 위해 만든 프로그램
 - 구성원: 1명
 - 기간: 2023.01 ~ 2023.07
 - 역할
@@ -49,7 +49,7 @@
 
 ### Backoffice
 - 분류: ``실무``
-- 소개: Keyring 등 사내 서비스 사용 및 관리의 편의를 위한 툴
+- 소개: Keyring 등 사내 서비스 사용 및 관리의 편의를 위한 웹 어플리케이션
 - 구성원: 1명
 - 기간: 2022.04 ~ 2023.07
 - 역할
@@ -62,24 +62,24 @@
 ### [![Keyring](./keyring/images/keyring_logo3.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) 
 ### [Keyring](https://www.keyring.life/)
 - 분류: ``실무``
-- 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼
+- 소개: 블록체인을 적용한 공동현관 키 통합 플랫폼 서비스
 - 구성원: 2명(백엔드 한정)
 - 기간: 2021.08 ~ 2023.07
 - 역할
   - 배포시스템 구축(codepipeline 기반 / github action 기반)
-  - 앱 API 및 블록체인 릴레이 기능의 서버 개발 및 유지보수
+  - 앱 REST API 및 블록체인 릴레이 기능의 서버 개발, 운영 및 유지보수
   - hyperledger fabric 환경 설정 및 구축 / 유지보수
   - hyperledger fabric chaincode 개발 및 유지보수
-  - certification 서버 개발 및 유지보수
-  - timer 서버 개발 및 유지보수
-  - pushnotification 서버 개발 및 유지보수
-- 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric ...
+  - certification 서버 개발, 운영 및 유지보수
+  - timer 서버 개발, 운영 및 유지보수
+  - AWS lambda 기반의 serverless framework 를 통한 pushnotification 서버 개발, 운영 및 유지보수
+- 기술스택: Nodejs, typescript, nextjs, mongoDB, docker, linux, AWS(ec2, vpc, rds(mysql), s3, beanstalk, ECS, ECR, codepipeline ...), FCM, Redis, hyperledger fabric, serverless framework(aws lambda) ...
 <br/>
 
 ### [![Keyin](./keyin/images/keyin_logo2.jpg)](https://play.google.com/store/apps/details?id=com.keywe.keyring) 
 ### Keyin
 - 분류: ``실무``
-- 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 프로젝트
+- 소개: Raonark 도어락을 제어 및 관리하기 위해 만들어진 플랫폼 서비스
 - 구성원: 1명(백엔드 한정)
 - 기간: 2021.08 ~ 2022.01
 - 역할
@@ -90,7 +90,7 @@
 
 ### KeyweOn
 - 분류: ``실무``
-- 소개: 자체 생산한 도어벨을 제어 및 관리하기 위해 만들어진 프로젝트
+- 소개: 자체 생산한 도어벨을 제어 및 관리하기 위해 만들어진 플랫폼 서비스
 - 구성원: 2명(백엔드 한정)
 - 기간: 2021.06 ~ 2021.10
 - 역할
@@ -101,7 +101,7 @@
 
 ### Premo IoT
 - 분류: ``실무``
-- 소개: ZWave 프로토콜을 이용하는 도어락 및 허브 정보 / 파트너정보 / 핀코드 등을 관리하며, ZWave 장치들을 제어하기 위해 만들어진 프로젝트
+- 소개: ZWave 프로토콜을 이용하는 도어락 및 허브 정보 / 파트너정보 / 핀코드 등을 관리하며, ZWave 장치들을 제어하기 위해 만들어진 서버
 - 구성원: 2명(백엔드 한정)
 - 기간: 2021.04 ~ 2023.07
 - 역할
