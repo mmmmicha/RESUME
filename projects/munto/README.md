@@ -58,6 +58,19 @@
 - (Docs) 온보딩 문서 작성
 - (Feat) 문지기 Pick
 
+## 사용했던 기술
+
+- `Language`: javascript, typescript, nodejs
+- `Framework`: nestjs
+- `ORM`: prisma
+- `Database`: postgresql, mongoDB
+- `Cache`: redis
+- `CI/CD`: github Action
+- `Infra`: aws
+  - ec2, ecs, rds, elasticache, documentdb, vpc, parameter store, lambda, s3, cloudfront...
+- `코드관리`: github
+- `협업툴`: slack, notion, jira
+
 ## 특별히 얻어가는 장점
 
 ### Git 관리
