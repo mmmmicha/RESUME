@@ -49,22 +49,22 @@
 - 구성원: 1명
 - 기간: 2024.07
 - 역할
-  - service 코드 책임 분리
+  - **service 코드 책임 분리**
     - 영속화 데이터를 주고 받는 코드들은 전부 repository로 분리시켰습니다.
     - validation 중 유즈케이스와 관련되어 있는 코드는 service 레이어에 validator 클래스를 따로 만들고, 나머지 코어 validation 들은 전부 엔티티로 이동시켰습니다.
     - Controller 레이어에 엔티티 생성 책임을 이동시켰습니다.
     - request payload들을 직접 의존하던 service 코드들을 Controller에서 request payload를 기반으로 생성된 엔티티를 의존하도록 수정
-  - 테스트 코드 소급 작성
+  - **테스트 코드 소급 작성**
     - v5 버젼업 리팩터링 전 생성/수정 API에 대한 e2e 테스트를 작성했고, 리팩터링 환경을 최소한으로 마련했습니다.
     - 코드의 책임을 분리하면서 테스트코드 작성이 가능해진 부분들이 많이 생겼습니다. 특히 중요한 validation을 담당하는 코드들은 각각 validator와 entity에 테스트 코드를 전부 작성할 수 있었습니다.
-  - 소셜링 생성 API의 Content-type 수정
+  - **소셜링 생성 API의 Content-type 수정**
     - multipart/form-data -> application/json으로 수정
       - 파일처리에 대한 기능이 사라지면서 multipart/form-data의 필요성이 사라졌고 타입을 정확하게 다룰 수 있는 application/json의 필요성이 대두됐습니다. 이에 따라 request body 내에 class-validator와 class-transformer를 사용하여 모든 string 속성을 일일이 코어에서 사용하는 타입으로 파싱한 이후 validation을 했던 부분을 직접 타입에 맞게 validation 을 하도록 전면 수정하였습니다.
-  - 엄격한 validation 룰 적용
-    - 소셜링 수정 API의 경우 request body 데이터에 관해 `undefined(무시)/null(제거)/값(수정)`이라는 룰이 있는데 이를 통상 `IsOptional` 데코레이터를 통해 허용을 하고 있다보니 required필드들의 경우 null을 controller 레이어를 넘어 service 레이어에서 불필요하게 한번 더 검사를 하고 있었습니다. 이를 해결하기 위해 `IsUndefinable, IsNullable` 이라는 데코레이터를 생성하여 더 정교한 validation을 controller 레이어에서 처리할 수 있게 개선했습니다.
-  - 트랜잭션 개선
+  - **엄격한 validation 룰 적용**
+    - 소셜링 수정 API의 경우 request body 데이터에 관해 **undefined(무시)/null(제거)/값(수정)** 이라는 룰이 있는데 이를 통상 **IsOptional** 데코레이터를 통해 허용을 하고 있다보니 required필드들의 경우 null을 controller 레이어를 넘어 service 레이어에서 불필요하게 한번 더 검사를 하고 있었습니다. 이를 해결하기 위해 **IsUndefinable, IsNullable** 이라는 데코레이터를 생성하여 더 정교한 validation을 controller 레이어에서 처리할 수 있게 개선했습니다.
+  - **트랜잭션 개선**
     - 생성과 수정의 경우 반드시 묶여야하는 영속화 로직들이 있는데 대부분의 코드들이 트랜잭션이 엮여있지 않아 평소 간헐적으로 데이터가 맞지 않는 문제들을 직접 해결하고 있었습니다. 이에 따라 트랜잭션을 걸어야하는 로직들에 트랜잭션을 추가했습니다.
-  - 불필요한 v4 코드 deprecated 처리
+  - **불필요한 v4 코드 deprecated 처리**
     - 이번에 v5로 대체된 코드 외에도 v4에 사용되지 않고 있는 코드들이 많이 있었습니다. 코드 히스토리를 파악할 때 늘 헷갈리게 만드는 주범들이었는데 전부 deprecated 시켰습니다.
 
 ### 엔티티 도입
